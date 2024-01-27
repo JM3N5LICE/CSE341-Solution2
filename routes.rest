@@ -53,7 +53,7 @@ content-type: application/json
 }
 
 ### PUT contact (update: add id to url)
-PUT https://test-solution2.onrender.com/contacts65b478ae208de4ec8e2477e2 HTTP/1.1
+PUT https://test-solution2.onrender.com/contacts/65b488f1dcca11914f723ac0 HTTP/1.1
 content-type: application/json
 
 {
@@ -65,4 +65,4 @@ content-type: application/json
 }
 
 ### DELETE contact (add id to url)
-DELETE https://test-solution2.onrender.com/contacts/65b4787c208de4ec8e2477e1 HTTP/1.1
+DELETE https://test-solution2.onrender.com/contacts/65b488f1dcca11914f723ac0 HTTP/1.1
