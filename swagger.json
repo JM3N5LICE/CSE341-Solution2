@@ -5,7 +5,7 @@
     "description": "Names",
     "version": "1.0.0"
   },
-  "host": "localhost:8080",
+  "host": "https://test-solution2.onrender.com/",
   "basePath": "/",
   "schemes": [
     "http"
